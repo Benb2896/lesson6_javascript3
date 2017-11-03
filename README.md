@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3rd, 2017
 
 ### Student Name:  
-(First and Last Name)
+Ben Buchalter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We used event listeners to create a dynamic photo gallery
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/Benb2896/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We used event listeners to change the image when a button was clicked
+2. Appended elements to existing page elements
+3. For loops to grab images
